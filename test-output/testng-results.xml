@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T12:21:26 EET" name="Default suite" finished-at="2024-03-04T12:21:31 EET" duration-ms="4920">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T12:21:26 EET" name="Default test" finished-at="2024-03-04T12:21:31 EET" duration-ms="4920">
+      <class name="additemstocart.add_items">
+        <test-method is-config="true" signature="teting()[pri:0, instance:additemstocart.add_items@18bc345]" started-at="2024-03-04T12:21:26 EET" name="teting" finished-at="2024-03-04T12:21:27 EET" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teting -->
+        <test-method signature="mytest()[pri:0, instance:additemstocart.add_items@18bc345]" started-at="2024-03-04T12:21:27 EET" name="mytest" finished-at="2024-03-04T12:21:31 EET" duration-ms="4079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+      </class> <!-- additemstocart.add_items -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
